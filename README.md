@@ -9,7 +9,7 @@
 
 🌐   HTML5 CSS Bootestrap JavaScript 
 ⚙️   Git GitHub
-🧑‍💻 IT technichian (software and Hardware)
+🧑‍💻   IT technichian (software and Hardware)
 
 
 <!---
