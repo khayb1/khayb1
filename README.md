@@ -16,6 +16,8 @@
   <li>🌐   Javascript </li>
   <li>⚙️   Git GitHub</li>
   <li>🧑‍💻   IT technichian (software and Hardware)</li>
+  <li>🌐   React Js</li>
+  <li>🌐   Typescript </li>
  </ul>
 
 
