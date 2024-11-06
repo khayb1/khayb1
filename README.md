@@ -3,8 +3,8 @@
  <li> 👀 I’m interested in front-end development. </li>
   <li> 
  🎓 Studying Information Technology at the Ghana Communication Technology University.</li>
-  <li> 💞️ Currently working as an intern for Origin8 at the IT department. </li>
-  <li> 📫 Reach me email at kelvinafrane0@gmail.com </li>
+  <li> 💞️ Currently working as aservice personl for Origin8 at the IT department. </li>
+  <li> 📫 Reach my email at kelvinafrane0@gmail.com </li>
   <li> 🏓 Creating 3d animation with spline and playing games. </li>
 </ul>
 
