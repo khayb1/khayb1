@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelvin Osei</h1>
 <h3 align="center">A passionate frontend developer and Web Developer from Accra, Ghana</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khayb1" alt="khayb1" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://khayb1.github.io/my-Portfolio/](https://khayb1.github.io/my-Portfolio/)
 
 - 📫 How to reach me **kelvinafrane0@gmail.com**
